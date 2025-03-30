@@ -23,8 +23,8 @@ Siga as etapas abaixo para rodar este projeto localmente ou dentro de um contain
 Primeiro, clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/romarioarruda/vehicle-service.git
+cd vehicle-service
 ```
 
 
@@ -71,7 +71,7 @@ Após a construção da imagem, execute o comando:
 docker run --rm -p 3000:3000 vehicle-service
 ```
 
-Após isso aaplicação estará disponível no endereço:
+Após isso a aplicação estará disponível no endereço:
 
 [http://localhost:3000](http://localhost:3000)
 
